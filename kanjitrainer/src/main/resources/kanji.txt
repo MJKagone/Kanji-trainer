@@ -1,0 +1,92 @@
+日; sun; hi, nichi
+一; one; ichi
+大; big; dai, oo
+年; year; nen
+中; middle; naka, chu
+会; to meet; kai, e
+人; human being, people; hito, nin
+本; book; hon, moto
+月; moon, month; tsuki, gatsu
+長; long; naga, cho
+国; country; kuni, kokka
+出; to go out; de, dasu
+上; up, top; ue, jō
+十; 10; jū
+生; life; sei, iku, u
+子; child; ko
+分; minute; bun, bu
+東; east; higashi
+三; three; san, mi
+行; to go; iku, gyō
+同; same; do, onaji
+今; now; ima
+高; high, expensive; taka, kō
+金; money, gold; kane, kin
+時; time; toki, ji
+手; hand; te, shu
+見; to see, to look; mi, ken
+市; city; ichi, shi
+力; power; chikara, ryoku
+米; rice; kome, bei
+自; oneself; ji, jishin
+前; before; mae, zen
+円; yen (Japanese currency); en
+合; to combine; ai, gō
+立; to stand; tachi, ritsu
+内; inside; uchi, nai
+二; two; ni
+事; affair, matter; koto, ji
+社; company, society; sha
+者; person; mono, sha
+地; ground, place; chi, ji
+京; capital; miyako, kei
+間; interval, between; ma, aida
+田; rice field; ta
+体; body; tai, karada
+学; to study; gaku, manabu
+下; down, under; shita, ge
+目; eye; me, moku
+五; five; go
+後; after; ato, go
+新; new; shin, atarashii
+明; bright, clear; mei, aka
+方; direction; kata, hō
+部; section; bu
+女; woman; onna, jo
+八; eight; hachi
+心; heart; kokoro, shin
+四; four; shi
+民; people, nation; min, tami
+対; opposite; tai
+主; main, master; shu, omo
+正; right, correct; se, tadashii
+代; to substitute, generation; dai, yo
+言; to say; gon, i
+九; nine; kyū
+小; small; chiisa, shō
+思; to think; omo, omou
+七; seven; nana, shichi
+山; mountain; yama
+実; real; jitsu, minato
+入; to enter; iru, nyū
+回; to turn around, time; kai, mawasu
+場; place; ba, jo
+野; field; no
+開; to open; kai, akeru
+万; 10,000; man
+全; whole; zen
+定; to fix; tei, sadameru
+家; house; ie, ka
+北; north; kita
+六; six; roku
+問; question; mon, to
+話; to speak; hanashi
+文; letter, writings; bun, mon
+動; to move; do, ugo
+度; degree, time; do, tabi
+県; prefecture; ken
+水; water; mizu, sui
+安; inexpensive, peaceful; yasu, an
+氏; courtesy name (Mr., Mrs.); uji
+和; harmonious, peace; wa
+政; government, politics; sei, matsurigoto
