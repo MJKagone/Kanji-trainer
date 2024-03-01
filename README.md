@@ -1,6 +1,6 @@
 # Kanji Trainer
 
-This is a simple Java application that helps users learn Kanji, the logographic characters used in the Japanese writing system.
+This is a simple Java application that helps users learn Kanji, the logographic characters used in the Japanese writing system. The project is built with Maven and uses JavaFX for the graphical user interface.
 
 ## Source files
 
@@ -14,7 +14,7 @@ This is a simple Java application that helps users learn Kanji, the logographic 
 
 ## Quick start guide (non-developers)
 
-Download the [target](target) folder and run runme.bat.
+See the releases on the right or click [here](https://github.com/MJKagone/Kanji-trainer/releases/latest).
 
 ## Screenshots
 
