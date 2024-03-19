@@ -34,7 +34,4 @@ Wait a few seconds:
 
 ![Next question](screenshots/kanjitrainer4.png)
 
-## License
-
-This project is licensed under the MIT License, meaning you can use it for any purpose, commercial or non-commercial, without any restrictions.
 
